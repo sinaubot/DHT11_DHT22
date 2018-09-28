@@ -1,6 +1,6 @@
 # DHT11_DHT22
 
-Components Required :
+#Components Required :
 -Arduino UNO
 -DHT11 Temperature and Humidity Sensor
 -Breadboard (or perfboard)
